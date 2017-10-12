@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="activity_popular_title">Popular Movies</string>
+    <string name="activity_top_rated_title">Top Rated Movies</string>
+    <string name="activity_favorites_title">Favorite Movies</string>
+    <string name="activity_detail_title">Movie Details</string>
+
+    <string name="activity_detail_trailers_title">Trailers:</string>
+    <string name="activity_detail_reviews_title">Reviews:</string>
+    <string name="activity_detail_reviews_author">…review by </string>
+    <string name="activity_detail_ratings_max_scale">/10</string>
+
+    <string name="action_sort_popular">Sort by most popular</string>
+    <string name="action_sort_top_rated">Sort by top rated</string>
+    <string name="action_sort_favorite">Sort by favorites</string>
+
+    <string name="error_network">You must have a connection to the internet.</string>
+    <string name="error_message">An error has occurred.  Please try again.</string>
+
+    <string name="content_authority">udacity.popularmovies</string>
+</resources>
